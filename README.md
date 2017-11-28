@@ -6,9 +6,9 @@ Builds (Completed)
 
 Image Streams
 
-Deployments
+Deployments(Completed)
 
-Health checks
+Health checks(Completed)
 
 Services and Routes
 
@@ -20,7 +20,7 @@ Persistent Volumes, and Persistent Volume Claims
 
 Statefulsets, and Daemonsets
 
-Jobs, and Cron Jobs
+Jobs, and Cron Jobs()
 
 Users, Groups and Policies
 
